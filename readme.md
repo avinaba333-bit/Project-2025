@@ -1,6 +1,6 @@
 <h1>Chatbot with RAG and LangChain</h1>
 
-<h2>Watch the full tutorial on my YouTube Channel</h2>
+<h2>Project on How to create a simple Chatbot with RAG and LangChain</h2>
 <div>
 
 <a>
