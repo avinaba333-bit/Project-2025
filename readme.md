@@ -3,9 +3,9 @@
 <h2>Watch the full tutorial on my YouTube Channel</h2>
 <div>
 
-
+<a>
     <img src="thumbnail_small.png" alt="Avinaba Ghosh Learning" width="200"/>
-
+</a>
 </div>
 
 <h2>Prerequisites</h2>
